@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+@font-face {
+  font-family: "Inter";
+  font-weight: 400;
+  font-style: normal;
+  src: url("/fonts/Inter-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Inter";
+  font-weight: 700;
+  font-style: normal;
+  src: url("/fonts/Inter-Bold.woff2") format("woff2");
+}
+
+/* Add more @font-face rules for other Inter font weights and styles as needed */
+
+/* Optionally, add a global CSS rule to apply Inter as the default font */
